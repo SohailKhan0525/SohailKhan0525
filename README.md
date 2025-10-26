@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohail Khan
+🎓 Self-taught Python Developer from Hyderabad  
+🤖 Aspiring AI Engineer | Passionate about Automation and Data  
 
-<!--
-**SohailKhan0525/SohailKhan0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
+- Python, OOP, File Handling  
+- Currently learning: AI, Machine Learning, Data Analysis  
 
-Here are some ideas to get you started:
+## 💼 Projects
+- 🧑‍🎓 Student Management System — OOP project for managing student records  
+- 🏦 Bank Management — simulates banking operations  
+- 📂 File Handling — automates file read/write operations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Goals
+Building my first AI-based project soon!
