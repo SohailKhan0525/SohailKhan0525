@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mohd Zaheer Uddin</h1>
 
 <p align="center">
-  🎓 2nd Year, 2nd Semester CSIT Student<br/>
+  🎓 3rd Year, 1st Semester CSIT Student<br/>
   🤖 Machine Learning Beginner (Currently Learning)<br/>
   💼 Looking for my first internship opportunity
 </p>
