@@ -51,6 +51,16 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/SohailKhan0525">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailKhan0525&theme=github-compact&hide_border=true" alt="SohailKhan0525 contribution graph" />
+  </a>
+</p>
+
+---
+
 ## 🌱 Goals
 
 - Keep improving my Machine Learning fundamentals
