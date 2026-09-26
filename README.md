@@ -2,18 +2,19 @@
 
 <p align="center">
   🎓 3rd Year, 1st Semester CSIT Student<br/>
-  🤖 Machine Learning Beginner (Currently Learning)<br/>
-  💼 Looking for my first internship opportunity
+  🤖 AI & Machine Learning Enthusiast<br/>
+  🐍 Python Developer<br/>
+  💼 Looking for internship opportunities
 </p>
 
-<p align="center">
-  <a href="https://mohdzaheeruddin0525.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/SohailKhan0525">
-    <img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 👋 About Me
+
+I'm a **3rd Year, 1st Semester CSIT student** passionate about **Artificial Intelligence, Machine Learning, and Python development**.
+
+I enjoy turning ideas into practical projects while continuously improving my programming and problem-solving skills. I'm currently exploring **AI/ML, data science, and vibe coding**, and I enjoy experimenting with new tools and building useful real-world applications.
+
+🎯 **My current focus:** learning, building, experimenting, and preparing for internship opportunities.
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,12 +27,30 @@
 
 ## 🧠 Skills & Technologies
 
-| Category | Tools / Libraries |
-|---|---|
-| **Languages** | Python |
-| **ML / Data Science** | scikit-learn, pandas, NumPy |
-| **Python Concepts** | OOP, File Handling, JSON, pathlib |
-| **Tools** | Google Colab, Jupyter Notebook, Git |
+### 💻 Languages
+- Python
+
+### 🤖 AI / Machine Learning
+- Artificial Intelligence
+- Machine Learning
+- Scikit-learn
+
+### 📊 Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Google Colab
+
+### 🛠️ Development & Tools
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Vibe Coding
+
+### 📚 Familiar With
+- C/C++ fundamentals
 
 ---
 
@@ -76,19 +95,57 @@
 
 ---
 
-## 🌱 Goals
+## 🌱 Currently Learning
 
-- Keep improving my Machine Learning fundamentals
-- Build more beginner-friendly Python and ML projects
-- Get my first internship and gain real-world experience
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💻 Vibe Coding
 
 ---
 
+## 🎯 Current Focus
+
+- Building practical AI/ML projects
+- Improving Python and data-science fundamentals
+- Experimenting with modern AI development workflows
+- Preparing for internship opportunities
+
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
   <a href="https://mohdzaheeruddin0525.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
   </a>
-  <a href="https://github.com/SohailKhan0525?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/SohailKhan0525">
+    <img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/mohd-zaheer-uddin-166b3b356">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Zaheer%20Uddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sohailkhan0525">
+    <img src="https://img.shields.io/badge/Instagram-sohailkhan0525-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/sohailkhan05">
+    <img src="https://img.shields.io/badge/Kaggle-sohailkhan05-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/SohailKhan05">
+    <img src="https://img.shields.io/badge/Hugging%20Face-SohailKhan05-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="mailto:sohailkhannnn.0525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SohailKhan0525&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </p>
