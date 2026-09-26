@@ -1,19 +1,26 @@
 <h1 align="center">👋 Hi, I'm Mohd Zaheer Uddin</h1>
 
 <p align="center">
-  <strong>CSIT Student • Python Developer • AI/ML Enthusiast • AI-Native Builder</strong>
+  <em>AI/ML • Python • AI Agents • Product Building</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SohailKhan0525">
-    <img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://mohdzaheeruddin0525.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="mailto:sohailkhannnn.0525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <strong>CSIT Student&nbsp;&nbsp;•&nbsp;&nbsp;Python Developer&nbsp;&nbsp;•&nbsp;&nbsp;AI/ML Enthusiast&nbsp;&nbsp;•&nbsp;&nbsp;AI-Native Builder</strong>
+</p>
+
+<p align="center">
+  <a href="https://mohdzaheeruddin0525.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" /></a>
+  <a href="https://github.com/SohailKhan0525"><img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohd-zaheer-uddin-166b3b356"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sohailkhan0525"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br/>
+  <a href="https://www.kaggle.com/sohailkhan05"><img src="https://img.shields.io/badge/Kaggle-sohailkhan05-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://huggingface.co/SohailKhan05"><img src="https://img.shields.io/badge/Hugging%20Face-SohailKhan05-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="mailto:sohailkhannnn.0525@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>Let's connect • collaborate • build something useful 🚀</sub>
 </p>
 
 <p align="center">
