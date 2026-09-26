@@ -57,25 +57,58 @@ I enjoy turning ideas into practical projects while continuously improving my pr
 ## 💼 Projects
 
 ### 🏠 House Price Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/HousePricePrediction)
+🔗 [View on GitHub](https://github.com/SohailKhan0525/HousePricePrediction)  
+End-to-end regression pipeline that cleans messy housing data, engineers features and normalizes units, compares multiple regressors, and deploys the best model with Streamlit to predict house prices.
 
 ### 🫀 Heart Disease Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/HeartDiseaseML)
+🔗 [View on GitHub](https://github.com/SohailKhan0525/HeartDiseaseML)  
+Binary classification system using Logistic Regression, one-hot encoding, feature scaling, and a persisted preprocessing pipeline to estimate whether a patient falls into the low- or high-risk class.
 
-### 🌍 Earthquake Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/Global-Earthquake-Prediction)
+### 🌍 Earthquake → Tsunami Prediction
+🔗 [View on GitHub](https://github.com/SohailKhan0525/Global-Earthquake-Prediction)  
+Machine-learning classification project that explores global seismic data, performs EDA and preprocessing, and uses Random Forest modelling and hyperparameter tuning to predict whether an earthquake event triggered a tsunami.
 
-### 🎓 Student Pass/Fail Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentFailPassPredictor)
+### 🎓 Student Pass/Fail Predictor
+🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentFailPassPredictor)  
+Classification model that predicts student pass/fail outcomes from demographic and academic-background features using categorical encoding, balanced Logistic Regression, and probability-based predictions.
 
-### 🎓 Student Management
-🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentManagementProject)
+### 🎓 Student Management System
+🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentManagementProject)  
+Python CRUD application available as both CLI and Streamlit web app for adding, updating, searching, filtering, importing, exporting, and managing student records with JSON persistence.
 
-### 🏦 Bank Management
-🔗 [View on GitHub](https://github.com/SohailKhan0525/BankManagementProject)
+### 🏦 Bank Management System
+🔗 [View on GitHub](https://github.com/SohailKhan0525/BankManagementProject)  
+Python banking simulator with CLI and Streamlit interfaces covering account creation, authentication, deposits, withdrawals, profile updates, deletion, validation, and JSON-based data persistence.
 
-### 📁 File Handling
-🔗 [View on GitHub](https://github.com/SohailKhan0525/File_Handling_Project)
+### 📁 File Handling CLI
+🔗 [View on GitHub](https://github.com/SohailKhan0525/File_Handling_Project)  
+Menu-driven Python terminal application for creating, reading, deleting, and recursively listing files while practicing pathlib, filesystem operations, loops, input validation, and error handling.
+
+---
+
+## 🤖 AI Era — Building With AI
+
+This is where I'm moving beyond traditional coursework and experimenting with **AI agents, agent skills, AI-powered developer tools, and AI-native products**.
+
+### 🧠 Qofeno Skills
+🔗 [GitHub](https://github.com/Qofeno/skills)  
+A collection of production-focused agent skills and workflows for coding agents such as Claude Code, Cursor, Antigravity, and other AI development environments — exploring how reusable skills can give agents specialized capabilities. citeturn3search5
+
+### ⚡ AgentX Code
+🔗 [GitHub](https://github.com/SohailKhan0525/agentxcode) · [npm](https://www.npmjs.com/package/@agent-qofeno/agentx-cli)  
+An open-source terminal AI coding agent that can plan, inspect a codebase, edit files, run commands, iterate on errors, and help ship production-ready web applications — distributed as an npm package with **28K+ downloads**.
+
+### ⚖️ Internet Court
+🔗 [GitHub](https://github.com/internet-court/internet-court-skill)  
+An AI-agent trust and commerce project that connects identity, negotiation, contracts, payments, escrow, execution, and dispute resolution into a single agent skill — giving autonomous agents a structured way to handle transactions and what happens when a deal goes wrong. citeturn0search0
+
+### 🪄 Looproof
+**Coming soon to GitHub** 🚧  
+An AI-assisted product inspired by testimonial platforms like testimonial.to, focused on making it easier to collect, manage, and present customer testimonials and social proof — with the GitHub repository coming soon.
+
+### 🛠️ Qofeno Tools
+**Building with AI** 🚀  
+A growing collection of **1,000+ free tools** designed for developers, students, creators, and everyday users — experimenting with how AI can turn small, useful utilities into a large, accessible toolbox.
 
 ---
 
