@@ -63,14 +63,16 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailKhan0525&theme=github-compact&hide_border=true&area=true" alt="SohailKhan0525 GitHub Contribution Activity Graph" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=SohailKhan0525&theme=github&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailKhan0525&theme=github&hide_border=true" alt="SohailKhan0525 GitHub Contribution Activity Graph" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SohailKhan0525&theme=default&hide_border=true" alt="SohailKhan0525 GitHub Streak Stats" />
 </p>
 
-> 🔄 Contribution activity and streak stats are loaded dynamically from GitHub activity, so they update as your GitHub contributions change.
+> 🔄 These cards are generated dynamically from your GitHub activity. If GitHub's image proxy temporarily doesn't load the activity graph, use the graph link above to open it directly.
 
 ---
 
