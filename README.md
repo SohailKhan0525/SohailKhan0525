@@ -147,5 +147,5 @@ I enjoy turning ideas into practical projects while continuously improving my pr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SohailKhan0525&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
