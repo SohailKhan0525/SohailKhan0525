@@ -1,9 +1,18 @@
 <h1 align="center">👋 Hi, I'm Mohd Zaheer Uddin</h1>
 
 <p align="center">
-  🎓 2nd Year, 2nd Semester CSIT Student<br/>
+  🎓 3rd Year, 1st Semester CSIT Student<br/>
   🤖 Machine Learning Beginner (Currently Learning)<br/>
   💼 Looking for my first internship opportunity
+</p>
+
+<p align="center">
+  <a href="https://mohdzaheeruddin0525.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/SohailKhan0525">
+    <img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -51,6 +60,20 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailKhan0525&theme=github-compact&hide_border=true&area=true" alt="SohailKhan0525 GitHub Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SohailKhan0525&theme=default&hide_border=true" alt="SohailKhan0525 GitHub Streak Stats" />
+</p>
+
+> 🔄 Contribution activity and streak stats are loaded dynamically from GitHub activity, so they update as your GitHub contributions change.
+
+---
+
 ## 🌱 Goals
 
 - Keep improving my Machine Learning fundamentals
@@ -60,6 +83,9 @@
 ---
 
 <p align="center">
+  <a href="https://mohdzaheeruddin0525.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
+  </a>
   <a href="https://github.com/SohailKhan0525?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repos-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
