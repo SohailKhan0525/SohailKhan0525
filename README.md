@@ -103,12 +103,12 @@ A collection of production-focused agent skills and workflows for coding agents 
 An open-source terminal AI coding agent that I'm actively building and testing to plan, inspect codebases, edit files, run commands, and iterate on development tasks. It is still **work in progress** and has known issues/errors that I'm actively fixing as I improve the agent and its workflow — distributed as an npm package with **28K+ downloads**.
 
 ### ⚖️ Internet Court
-🔗 [GitHub](https://github.com/internet-court/internet-court-skill)  
-An AI-agent trust and commerce project that connects identity, negotiation, contracts, payments, escrow, execution, and dispute resolution into a single agent skill — giving autonomous agents a structured way to handle transactions and what happens when a deal goes wrong. citeturn0search0
+🚧 **Concept / Experiment**  
+Exploring how AI agents could handle online agreements, trust, disputes, and transactions — an idea I'm experimenting with as part of my broader AI-building journey.
 
-### 🪄 Looproof
-**Coming soon to GitHub** 🚧  
-An AI-assisted product inspired by testimonial platforms like testimonial.to, focused on making it easier to collect, manage, and present customer testimonials and social proof — with the GitHub repository coming soon.
+### 🪄 LoopProof
+🌐 [loopproof.me](https://loopproof.me)  
+An AI-assisted social-proof platform I built with Claude, inspired by products like testimonial.to — designed around collecting, managing, and showcasing customer testimonials in a clean, product-focused experience. The project is currently live on the web, with the source repository coming soon.
 
 ### 🛠️ Qofeno Tools
 **Building with AI** 🚀  
