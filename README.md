@@ -107,8 +107,8 @@ An open-source terminal AI coding agent that I'm actively building and testing t
 A public argument court where people **file a case, share the public case link, let real users vote, and get a real verdict from the vote count** — built with a focus on real activity, public case URLs, authentication, payments, security, and a production-ready architecture. I built the product with Claude as an AI development partner while driving the product idea, UX, design direction, implementation decisions, testing, and iteration myself.
 
 ### 🪄 LoopProof
-🌐 [loopproof.me](https://loopproof.me)  
-An AI-assisted social-proof platform I built with Claude, inspired by products like testimonial.to — designed around collecting, managing, and showcasing customer testimonials in a clean, product-focused experience. The project is currently live on the web, with the source repository coming soon.
+**Coming soon to GitHub** 🚧  
+An AI-assisted social-proof platform I built with Claude, inspired by products like testimonial.to — designed around collecting, managing, and showcasing customer testimonials in a clean, product-focused experience. The source repository will be added soon.
 
 ### 🛠️ Qofeno Tools
 **Building with AI** 🚀  
