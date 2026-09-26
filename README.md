@@ -56,6 +56,8 @@ I enjoy turning ideas into practical projects while continuously improving my pr
 
 ## 💼 Projects
 
+> 🧑‍💻 **Built to learn, not just to copy:** The projects below are projects I personally created while learning. I worked through the ideas, implementation, debugging, and concepts myself rather than simply reproducing projects by following someone else's build step-by-step. AI can be used as a development aid, but the goal of these projects was to understand **why the code works, how the system is built, and what I learned by creating it**.
+
 ### 🏠 House Price Prediction
 🔗 [View on GitHub](https://github.com/SohailKhan0525/HousePricePrediction)  
 End-to-end regression pipeline that cleans messy housing data, engineers features and normalizes units, compares multiple regressors, and deploys the best model with Streamlit to predict house prices.
@@ -90,13 +92,15 @@ Menu-driven Python terminal application for creating, reading, deleting, and rec
 
 This is where I'm moving beyond traditional coursework and experimenting with **AI agents, agent skills, AI-powered developer tools, and AI-native products**.
 
+> 💡 **My approach to building with AI:** I use tools like Claude Code and Codex as development partners, but I don't just ask AI to build something and accept the output. I provide the product idea, define how I want it to work and look, review what gets generated, test it, identify what needs to change, and iterate on it toward a real production-ready experience. AI helps me move faster; the product direction, decisions, debugging, and refinement still come from me.
+
 ### 🧠 Qofeno Skills
 🔗 [GitHub](https://github.com/Qofeno/skills)  
 A collection of production-focused agent skills and workflows for coding agents such as Claude Code, Cursor, Antigravity, and other AI development environments — exploring how reusable skills can give agents specialized capabilities. citeturn3search5
 
 ### ⚡ AgentX Code
 🔗 [GitHub](https://github.com/SohailKhan0525/agentxcode) · [npm](https://www.npmjs.com/package/@agent-qofeno/agentx-cli)  
-An open-source terminal AI coding agent that can plan, inspect a codebase, edit files, run commands, iterate on errors, and help ship production-ready web applications — distributed as an npm package with **28K+ downloads**.
+An open-source terminal AI coding agent that I'm actively building and testing to plan, inspect codebases, edit files, run commands, and iterate on development tasks. It is still **work in progress** and has known issues/errors that I'm actively fixing as I improve the agent and its workflow — distributed as an npm package with **28K+ downloads**.
 
 ### ⚖️ Internet Court
 🔗 [GitHub](https://github.com/internet-court/internet-court-skill)  
