@@ -103,8 +103,8 @@ A collection of production-focused agent skills and workflows for coding agents 
 An open-source terminal AI coding agent that I'm actively building and testing to plan, inspect codebases, edit files, run commands, and iterate on development tasks. It is still **work in progress** and has known issues/errors that I'm actively fixing as I improve the agent and its workflow — distributed as an npm package with **28K+ downloads**.
 
 ### ⚖️ Internet Court
-🚧 **Concept / Experiment**  
-Exploring how AI agents could handle online agreements, trust, disputes, and transactions — an idea I'm experimenting with as part of my broader AI-building journey.
+🌐 [Live Website](https://www.loopproof.me) · 🔗 [GitHub](https://github.com/SohailKhan0525/internet-court)  
+A public argument court where people **file a case, share the public case link, let real users vote, and get a real verdict from the vote count** — built with a focus on real activity, public case URLs, authentication, payments, security, and a production-ready architecture. I built the product with Claude as an AI development partner while driving the product idea, UX, design direction, implementation decisions, testing, and iteration myself.
 
 ### 🪄 LoopProof
 🌐 [loopproof.me](https://loopproof.me)  
