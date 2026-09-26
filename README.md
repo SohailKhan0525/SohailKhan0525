@@ -1,122 +1,122 @@
 <h1 align="center">👋 Hi, I'm Mohd Zaheer Uddin</h1>
 
 <p align="center">
-  🎓 3rd Year, 1st Semester CSIT Student<br/>
-  🤖 AI & Machine Learning Enthusiast<br/>
-  🐍 Python Developer<br/>
-  💼 Looking for internship opportunities
+  <strong>CSIT Student • Python Developer • AI/ML Enthusiast • AI-Native Builder</strong>
 </p>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://github.com/SohailKhan0525">
+    <img src="https://img.shields.io/badge/GitHub-SohailKhan0525-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mohdzaheeruddin0525.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge" />
+  </a>
+  <a href="mailto:sohailkhannnn.0525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I'm a **3rd Year, 1st Semester CSIT student** passionate about **Artificial Intelligence, Machine Learning, and Python development**.
+<p align="center">
+  🎓 3rd Year CSIT Student &nbsp;•&nbsp; 🤖 AI/ML &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🚀 Building With AI
+</p>
 
-I enjoy turning ideas into practical projects while continuously improving my programming and problem-solving skills. I'm currently exploring **AI/ML, data science, and vibe coding**, and I enjoy experimenting with new tools and building useful real-world applications.
+---
 
-🎯 **My current focus:** learning, building, experimenting, and preparing for internship opportunities.
+## 👨‍💻 About Me
 
+I'm a **3rd Year CSIT student** focused on **Python, Artificial Intelligence, Machine Learning, and practical software development**.
+
+I learn by building — from traditional ML projects and Python applications to newer **AI agents, developer tools, and AI-native products**. I enjoy taking an idea from concept to implementation, understanding how the system works, debugging what breaks, and continuously improving the result.
+
+🎯 **Currently:** building projects, strengthening my AI/ML fundamentals, exploring AI-assisted development, and preparing for internship opportunities.
+
+---
+
+## 🧰 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| 💻 **Languages** | Python |
+| 🤖 **AI / ML** | Artificial Intelligence, Machine Learning, Scikit-learn |
+| 📊 **Data Science** | Pandas, NumPy, Matplotlib, Jupyter Notebook, Google Colab |
+| 🛠️ **Development** | Git, GitHub, VS Code, Streamlit, Vibe Coding |
+| 📚 **Familiar With** | C/C++ fundamentals |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Languages
-- Python
-
-### 🤖 AI / Machine Learning
-- Artificial Intelligence
-- Machine Learning
-- Scikit-learn
-
-### 📊 Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-- Google Colab
-
-### 🛠️ Development & Tools
-- Git
-- GitHub
-- VS Code
-- Streamlit
-- Vibe Coding
-
-### 📚 Familiar With
-- C/C++ fundamentals
 
 ---
 
 ## 💼 Projects
 
-> 🧑‍💻 **Built to learn, not just to copy:** The projects below are projects I personally created while learning. I worked through the ideas, implementation, debugging, and concepts myself rather than simply reproducing projects by following someone else's build step-by-step. AI can be used as a development aid, but the goal of these projects was to understand **why the code works, how the system is built, and what I learned by creating it**.
+> 🧑‍💻 **Built to learn, not just to copy.** These projects were created while I was learning the underlying concepts. I worked through the implementation, debugging, and problem-solving myself rather than simply reproducing a tutorial step-by-step. AI can be a development aid, but understanding **why the code works and how the system is built** remains the goal.
 
-### 🏠 House Price Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/HousePricePrediction)  
-End-to-end regression pipeline that cleans messy housing data, engineers features and normalizes units, compares multiple regressors, and deploys the best model with Streamlit to predict house prices.
+### 🤖 Machine Learning
 
-### 🫀 Heart Disease Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/HeartDiseaseML)  
-Binary classification system using Logistic Regression, one-hot encoding, feature scaling, and a persisted preprocessing pipeline to estimate whether a patient falls into the low- or high-risk class.
+#### 🏠 House Price Prediction
+🔗 [GitHub](https://github.com/SohailKhan0525/HousePricePrediction)  
+End-to-end regression pipeline that cleans housing data, engineers features, normalizes units, compares multiple regression models, and deploys the selected model with Streamlit for house-price prediction.
 
-### 🌍 Earthquake → Tsunami Prediction
-🔗 [View on GitHub](https://github.com/SohailKhan0525/Global-Earthquake-Prediction)  
-Machine-learning classification project that explores global seismic data, performs EDA and preprocessing, and uses Random Forest modelling and hyperparameter tuning to predict whether an earthquake event triggered a tsunami.
+#### 🫀 Heart Disease Prediction
+🔗 [GitHub](https://github.com/SohailKhan0525/HeartDiseaseML)  
+Binary classification project using Logistic Regression, one-hot encoding, feature scaling, and a persisted preprocessing pipeline to estimate low- or high-risk outcomes.
 
-### 🎓 Student Pass/Fail Predictor
-🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentFailPassPredictor)  
-Classification model that predicts student pass/fail outcomes from demographic and academic-background features using categorical encoding, balanced Logistic Regression, and probability-based predictions.
+#### 🌍 Earthquake → Tsunami Prediction
+🔗 [GitHub](https://github.com/SohailKhan0525/Global-Earthquake-Prediction)  
+Classification project using global earthquake data, EDA, preprocessing, Random Forest modelling, feature analysis, and hyperparameter tuning to predict whether an earthquake event triggered a tsunami.
 
-### 🎓 Student Management System
-🔗 [View on GitHub](https://github.com/SohailKhan0525/StudentManagementProject)  
-Python CRUD application available as both CLI and Streamlit web app for adding, updating, searching, filtering, importing, exporting, and managing student records with JSON persistence.
+#### 🎓 Student Pass/Fail Predictor
+🔗 [GitHub](https://github.com/SohailKhan0525/StudentFailPassPredictor)  
+Student outcome classification project using categorical encoding, balanced Logistic Regression, and probability-based predictions from demographic and academic-background features.
 
-### 🏦 Bank Management System
-🔗 [View on GitHub](https://github.com/SohailKhan0525/BankManagementProject)  
-Python banking simulator with CLI and Streamlit interfaces covering account creation, authentication, deposits, withdrawals, profile updates, deletion, validation, and JSON-based data persistence.
+### 🐍 Python Applications
 
-### 📁 File Handling CLI
-🔗 [View on GitHub](https://github.com/SohailKhan0525/File_Handling_Project)  
-Menu-driven Python terminal application for creating, reading, deleting, and recursively listing files while practicing pathlib, filesystem operations, loops, input validation, and error handling.
+#### 🎓 Student Management System
+🔗 [GitHub](https://github.com/SohailKhan0525/StudentManagementProject)  
+Python CRUD application with both CLI and Streamlit interfaces for creating, updating, searching, filtering, importing, exporting, and managing student records with JSON persistence.
+
+#### 🏦 Bank Management System
+🔗 [GitHub](https://github.com/SohailKhan0525/BankManagementProject)  
+Python banking simulator with CLI and Streamlit interfaces covering account creation, authentication, deposits, withdrawals, profile updates, deletion, validation, and JSON-based persistence.
+
+#### 📁 File Handling CLI
+🔗 [GitHub](https://github.com/SohailKhan0525/File_Handling_Project)  
+Menu-driven terminal application for creating, reading, deleting, and recursively listing files while practicing pathlib, filesystem operations, validation, loops, and error handling.
 
 ---
 
 ## 🤖 AI Era — Building With AI
 
-This is where I'm moving beyond traditional coursework and experimenting with **AI agents, agent skills, AI-powered developer tools, and AI-native products**.
+I'm now moving beyond traditional coursework and experimenting with **AI agents, reusable agent skills, AI-powered developer tools, and AI-native products**.
 
-> 💡 **My approach to building with AI:** I use tools like Claude Code and Codex as development partners, but I don't just ask AI to build something and accept the output. I provide the product idea, define how I want it to work and look, review what gets generated, test it, identify what needs to change, and iterate on it toward a real production-ready experience. AI helps me move faster; the product direction, decisions, debugging, and refinement still come from me.
+> 💡 **How I build with AI:** I use tools such as Claude Code and Codex as development partners — not as a replacement for my own decisions. I provide the product idea, define how it should look and behave, review generated code, test the result, find problems, make decisions about fixes, and iterate toward a real production-ready experience.
 
 ### 🧠 Qofeno Skills
 🔗 [GitHub](https://github.com/Qofeno/skills)  
-A collection of production-focused agent skills and workflows for coding agents such as Claude Code, Cursor, Antigravity, and other AI development environments — exploring how reusable skills can give agents specialized capabilities. citeturn3search5
+A collection of production-focused agent skills and workflows for coding agents such as Claude Code, Cursor, Antigravity, and other AI development environments — exploring how reusable skills can give agents specialized capabilities.
 
 ### ⚡ AgentX Code
 🔗 [GitHub](https://github.com/SohailKhan0525/agentxcode) · [npm](https://www.npmjs.com/package/@agent-qofeno/agentx-cli)  
-An open-source terminal AI coding agent that I'm actively building and testing to plan, inspect codebases, edit files, run commands, and iterate on development tasks. It is still **work in progress** and has known issues/errors that I'm actively fixing as I improve the agent and its workflow — distributed as an npm package with **28K+ downloads**.
+An open-source terminal AI coding agent I'm actively building and testing to plan, inspect codebases, edit files, run commands, and iterate on development tasks. It is still **work in progress** with known issues/errors that I'm actively fixing as the agent evolves — currently distributed as an npm package with **28K+ downloads**.
 
 ### ⚖️ Internet Court
 🌐 [Live Website](https://www.loopproof.me) · 🔗 [GitHub](https://github.com/SohailKhan0525/internet-court)  
-A public argument court where people **file a case, share the public case link, let real users vote, and get a real verdict from the vote count** — built with a focus on real activity, public case URLs, authentication, payments, security, and a production-ready architecture. I built the product with Claude as an AI development partner while driving the product idea, UX, design direction, implementation decisions, testing, and iteration myself.
-
-### 🪄 LoopProof
-**Coming soon to GitHub** 🚧  
-An AI-assisted social-proof platform I built with Claude, inspired by products like testimonial.to — designed around collecting, managing, and showcasing customer testimonials in a clean, product-focused experience. The source repository will be added soon.
+A public argument court where people **file a case, share a public case link, let real users vote, and receive a verdict based on the actual vote count**. The product focuses on real activity, public case URLs, authentication, payments, security, and production-oriented architecture. I built it with Claude as an AI development partner while driving the product idea, UX, design direction, implementation decisions, testing, and iteration myself.
 
 ### 🛠️ Qofeno Tools
 **Building with AI** 🚀  
-A growing collection of **1,000+ free tools** designed for developers, students, creators, and everyday users — experimenting with how AI can turn small, useful utilities into a large, accessible toolbox.
+A growing collection of **1,000+ free tools** for developers, students, creators, and everyday users — exploring how AI-assisted development can turn small, useful utilities into a large and accessible toolbox.
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/SohailKhan0525">
@@ -128,7 +128,7 @@ A growing collection of **1,000+ free tools** designed for developers, students,
   <img src="https://streak-stats.demolab.com/?user=SohailKhan0525&theme=default&hide_border=true" alt="SohailKhan0525 GitHub Streak Stats" />
 </p>
 
-> 🔄 The contribution graph is generated by GitHub Actions and refreshed automatically every day from your GitHub contribution data. It is hosted from your own repository instead of relying on a third-party Vercel deployment.
+> 🔄 The contribution graph is generated by GitHub Actions and refreshed automatically from my GitHub contribution data.
 
 ---
 
@@ -137,16 +137,17 @@ A growing collection of **1,000+ free tools** designed for developers, students,
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 💻 Vibe Coding
+- 🧩 AI-assisted software development
 
 ---
 
 ## 🎯 Current Focus
 
-- Building practical AI/ML projects
-- Improving Python and data-science fundamentals
-- Experimenting with modern AI development workflows
-- Preparing for internship opportunities
-
+- 🚀 Building practical AI/ML projects
+- 🐍 Strengthening Python and data-science fundamentals
+- 🤖 Exploring AI agents and modern AI development workflows
+- 🛠️ Turning ideas into usable, production-oriented products
+- 💼 Preparing for internship opportunities
 
 ---
 
@@ -185,4 +186,8 @@ A growing collection of **1,000+ free tools** designed for developers, students,
 
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <sub>Building, learning, and shipping — one project at a time. 🚀</sub>
 </p>
