@@ -1,3 +1,4 @@
+[![bugs caught](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSohailKhan0525%2Fwould-you-merge%2Fbadges%2Fbadge.json)](https://github.com/SohailKhan0525/would-you-merge)
 <h1 align="center">👋 Hi, I'm Mohd Zaheer Uddin</h1>
 
 <p align="center">
